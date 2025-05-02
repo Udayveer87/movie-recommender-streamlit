@@ -42,7 +42,7 @@ def recommend(selected_movie, movies, knn, vectors):
 st.markdown(
     """
     <h1 style='font-family: Georgia, serif; color: #FF5733;'>
-        🎬 Movie Recommender System (KNN-ML)
+        🎬 Movie Recommender System 
     </h1>
     """,
     unsafe_allow_html=True
